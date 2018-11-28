@@ -1,6 +1,6 @@
 # LeetCode
 the solution of LeetCode
 
-Array:
+Array:  
 905.  
 832.
