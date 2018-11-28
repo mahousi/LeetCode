@@ -2,5 +2,5 @@
 the solution of LeetCode
 
 Array:
-905.\n
+905.  
 832.
