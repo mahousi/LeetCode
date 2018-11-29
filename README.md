@@ -4,3 +4,4 @@ the solution of LeetCode
 Array:  
 905:SortArrayByParity.java  
 832:FlippinganImage.java    
+561:Array Partition I.java
