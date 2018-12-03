@@ -16,3 +16,29 @@ class Solution {
         return deck;
     }
 }
+
+4ms：
+class Solution {
+    public int[] deckRevealedIncreasing(int[] deck) {
+        int i=0, j=0, n = deck.length;
+        boolean put = true;
+        Arrays.sort(deck);
+        int arr[] = new int[n];
+        while(j<n) {
+            while(arr[i]!=0) {
+                i+=1;
+                i%=n;
+            }
+            if(put) {
+                arr[i++] = deck[j++];
+                put = false;
+                i%=n;
+            } else {
+                i++;
+                i%=n;
+                put = true;
+            }
+        }
+        return arr;
+    }
+}
