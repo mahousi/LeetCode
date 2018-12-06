@@ -9,3 +9,7 @@ Array:
 922. Sort Array By Parity II  
 867. Transpose Matrix  
 766. Toeplitz Matrix  
+566. Reshape the Matrix  
+896. Monotonic Array  
+888. Fair Candy Swap  
+
