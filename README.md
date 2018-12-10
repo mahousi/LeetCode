@@ -13,6 +13,11 @@ Array:
 896. Monotonic Array  
 888. Fair Candy Swap  
 283. Move Zeroes  
-448. Find All Numbers Disappeared in an Array
+448. Find All Numbers Disappeared in an Array  
+169. Majority Element  
+122. Best Time to Buy and Sell Stock II.   
+217. Contains Duplicate.   
+717. 1-bit and 2-bit Characters  
+
 
 
